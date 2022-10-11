@@ -1,0 +1,15 @@
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/bin/Debug/net6.0/Задача21
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/bin/Debug/net6.0/Задача21.deps.json
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/bin/Debug/net6.0/Задача21.runtimeconfig.json
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/bin/Debug/net6.0/Задача21.dll
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/bin/Debug/net6.0/Задача21.pdb
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/obj/Debug/net6.0/Задача21.csproj.AssemblyReference.cache
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/obj/Debug/net6.0/Задача21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/obj/Debug/net6.0/Задача21.AssemblyInfoInputs.cache
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/obj/Debug/net6.0/Задача21.AssemblyInfo.cs
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/obj/Debug/net6.0/Задача21.csproj.CoreCompileInputs.cache
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/obj/Debug/net6.0/Задача21.dll
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/obj/Debug/net6.0/refint/Задача21.dll
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/obj/Debug/net6.0/Задача21.pdb
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/obj/Debug/net6.0/Задача21.genruntimeconfig.cache
+/Users/MacBook/Desktop/Seminar3.DZ/Задача21/obj/Debug/net6.0/ref/Задача21.dll
